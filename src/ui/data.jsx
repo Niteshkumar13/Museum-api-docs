@@ -1,5 +1,4 @@
 const randomNum = parseInt(Math.random()*1)+35;
-alert(randomNum)
 const data = [{
     title:'Specific Image',
     desc:'Get a specific image by adding /number/ to the start of the url.',
