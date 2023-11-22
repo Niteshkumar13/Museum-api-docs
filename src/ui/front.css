@@ -68,7 +68,7 @@ code{
     outline: none;
     border: 2px solid black;
     padding: 10px 25px;
-    height: 100px;
+    height: auto;
     border-radius: 5px;
     overflow-wrap: break-word;
 }
